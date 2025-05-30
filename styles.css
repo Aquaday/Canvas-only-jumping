@@ -1,0 +1,19 @@
+:root {
+  --white: #fff;
+  --black: #000;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: var(--black);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
